@@ -30,7 +30,7 @@
   <img alt="JavaScript" title="JavaScript" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
   <!-- Frameworks / Libraries -->
   <img alt="Node.js" title="Node.js" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-  <img alt="Express.js" title="Express.js" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/>
+  <img alt="Express.js" title="Express.js" height="32" src="https://cdn.worldvectorlogo.com/logos/expressjs.svg"/>
   <img alt="React" title="React" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
   <img alt="Bootstrap" title="Bootstrap" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
   <img alt="Tailwind CSS" title="Tailwind CSS" height="32" src="https://img.icons8.com/?size=100&id=x7XMNGh2vdqA&format=png&color="/>
@@ -38,7 +38,7 @@
   <img alt="MongoDB" title="MongoDB" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
   <!-- Tools -->
   <img alt="Git" title="Git" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-  <img alt="GitHub" title="GitHub" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+  <img alt="GitHub" title="GitHub" height="32" src="https://cdn.worldvectorlogo.com/logos/github-icon-2.svg"/>
   <img alt="VS Code" title="VS Code" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 </p>
 
