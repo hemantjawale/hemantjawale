@@ -15,7 +15,7 @@
 </p>
 <!-- GIF Banner -->
 <p align="center">
-  <img src="./assets/mygif.gif" alt="Coding Animation" autoplay loop width="200"/>
+  <img src="./assets/mygif.gif`" alt="Coding Animation" width="200"/>
 </p>
 ---
 
