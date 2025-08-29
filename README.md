@@ -15,7 +15,7 @@
 </p>
 <!-- GIF Banner -->
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExemo5Nm9vcWltcjZmNHM5YnplN2RidGhwZzhjaDNhdmQwZnByZ2JhNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Coding Animation" width="200"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExemo5Nm9vcWltcjZmNHM5YnplN2RidGhwZzhjaDNhdmQwZnByZ2JhNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Coding Animation" autoplay loop width="200"/>
 </p>
 ---
 
