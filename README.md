@@ -1,3 +1,8 @@
+<!-- GIF Banner -->
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExemo5Nm9vcWltcjZmNHM5YnplN2RidGhwZzhjaDNhdmQwZnByZ2JhNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Coding Animation" width="600"/>
+</p>
+
 <!-- Profile Header -->
 <h1 align="center">Hey, I'm HEMANT JAWALE 👋</h1>
 <p align="center">
@@ -45,11 +50,8 @@
 ---
 
 ### 🧩 Featured Projects
-<!-- Replace with your repos -->
-- **Portfolio Website** – Responsive site built with HTML, CSS, JS • [Live](https://js-projects-19nu.vercel.app/) • [Code](https://github.com/hemantjawale/JS_PROJECTS/tree/main/src)
+- **Portfolio Website** – Responsive site built with HTML, CSS, JS • [Live](https://js-projects-19nu.vercel.app/) • [Code](https://github.com/hemantjawale/JS_PROJECTS/tree/main/src)  
 - **Real-Time Weather App** – Fetches live data from OpenWeather API • [Live](https://js-projects-nine-iota.vercel.app/) • [Code](https://github.com/hemantjawale/JS_PROJECTS/tree/main/src)
-
-
 
 ---
 
@@ -66,9 +68,8 @@
 ### 🤝 Let’s Connect
 <p>
   <a href="mailto:hemantjawale24@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-hemantjawale24@gmail.com-informational?logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/hemantjawale/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Hemant Jawale-blue?logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/hemant-jawale/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Hemant Jawale-blue?logo=linkedin"></a>
   <a href="https://github.com/hemantjawale"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-hemantjawale-blue?logo=github"></a>
-
 </p>
 
 <!-- Small note -->
