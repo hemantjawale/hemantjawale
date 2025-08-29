@@ -1,7 +1,4 @@
-<!-- GIF Banner -->
-<p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExemo5Nm9vcWltcjZmNHM5YnplN2RidGhwZzhjaDNhdmQwZnByZ2JhNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Coding Animation" width="600"/>
-</p>
+
 
 <!-- Profile Header -->
 <h1 align="center">Hey, I'm HEMANT JAWALE 👋</h1>
@@ -16,7 +13,10 @@
   <a href="https://www.linkedin.com/in/hemant-jawale/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue"></a>
   <a href="https://js-projects-19nu.vercel.app//"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-success"></a>
 </p>
-
+<!-- GIF Banner -->
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExemo5Nm9vcWltcjZmNHM5YnplN2RidGhwZzhjaDNhdmQwZnByZ2JhNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Coding Animation" width="200"/>
+</p>
 ---
 
 ### 👨‍💻 About Me
