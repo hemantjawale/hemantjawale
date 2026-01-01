@@ -1,4 +1,4 @@
-<!-- Profile Header -->
+<!-- ================= PROFILE HEADER ================= -->
 <h1 align="center">Hey, I'm HEMANT JAWALE 👋</h1>
 <p align="center">
   Backend Developer • Aspiring Full Stack • JavaScript Enthusiast
@@ -22,7 +22,7 @@
   </a>
 </p>
 
-<!-- GIF Banner -->
+<!-- ================= GIF ================= -->
 <p align="center">
   <img src="./assets/mygif.gif" alt="Coding Animation" width="200"/>
 </p>
@@ -30,9 +30,9 @@
 ---
 
 ### 👨‍💻 About Me
-- 💻 Backend dev who loves clean APIs and fast responses  
-- 🚀 On my way to **Full Stack** (adding React/Tailwind)  
-- 🧩 I learn by building: small projects → real features  
+- 💻 Backend developer focused on clean APIs & performance  
+- 🚀 Growing toward **Full Stack** (React + Tailwind)  
+- 🧩 Learn-by-building mindset  
 - 📬 Reach me: **hemantjawale24@gmail.com**
 
 ---
@@ -56,46 +56,48 @@
 ---
 
 ### 🧩 Featured Projects
-- **Portfolio Website** – Responsive site built with HTML, CSS, JS  
-  • [Live](https://js-projects-19nu.vercel.app/)  
-  • [Code](https://github.com/hemantjawale/JS_PROJECTS/tree/main/src)
+- **Portfolio Website**  
+  Responsive site built with HTML, CSS & JS  
+  🔗 [Live](https://js-projects-19nu.vercel.app/)  
+  💻 [Code](https://github.com/hemantjawale/JS_PROJECTS/tree/main/src)
 
-- **Real-Time Weather App** – Fetches live data from OpenWeather API  
-  • [Live](https://js-projects-nine-iota.vercel.app/)  
-  • [Code](https://github.com/hemantjawale/JS_PROJECTS/tree/main/src)
+- **Real-Time Weather App**  
+  Uses OpenWeather API for live updates  
+  🔗 [Live](https://js-projects-nine-iota.vercel.app/)  
+  💻 [Code](https://github.com/hemantjawale/JS_PROJECTS/tree/main/src)
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img height="165" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hemantjawale&show_icons=true&hide_title=true&hide_border=true" />
-  <img height="165" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemantjawale&layout=compact&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hemantjawale&show_icons=true&hide_title=true&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemantjawale&layout=compact&hide_border=true" />
 </p>
 
 ---
 
-### 📈 Contribution Heatmap
+### 📈 GitHub Contribution Heatmap
 <p align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=hemantjawale&theme=github" 
-    alt="GitHub Contribution Graph"
+    src="https://ghchart.rshah.org/0e4429/hemantjawale" 
+    alt="GitHub Contributions"
   />
 </p>
 
-> 🟩 Hover over the graph to see daily contributions
+> 🟩 Hover over the squares to see daily contributions (GitHub-style)
 
 ---
 
 ### 🤝 Let’s Connect
 <p>
   <a href="mailto:hemantjawale24@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-hemantjawale24@gmail.com-informational?logo=gmail">
+    <img src="https://img.shields.io/badge/Email-hemantjawale24@gmail.com-informational?logo=gmail">
   </a>
   <a href="https://www.linkedin.com/in/hemant-jawale/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Hemant Jawale-blue?logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-Hemant Jawale-blue?logo=linkedin">
   </a>
   <a href="https://github.com/hemantjawale">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-hemantjawale-blue?logo=github">
+    <img src="https://img.shields.io/badge/GitHub-hemantjawale-blue?logo=github">
   </a>
 </p>
 
