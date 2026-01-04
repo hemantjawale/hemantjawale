@@ -1,131 +1,154 @@
-<h1 align="center">Hi 👋, I'm Hemant Jawale</h1>
-<h3 align="center">Full Stack MERN Developer | Problem Solver | Tech Enthusiast</h3>
+<!-- ======================= HERO SECTION ======================= -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=Hemant+Jawale;Full+Stack+MERN+Developer;Building+Scalable+Web+Applications;Turning+Ideas+Into+Production+Apps" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212897807-63e87a7b-1c8f-4a12-9b6b-69a3cfc8b9c3.gif" width="480"/>
+</p>
+
+<h3 align="center">
+🚀 Full Stack MERN Developer | Computer Science Engineer | Problem Solver
+</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hemant-jawale/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=000"/>
   </a>
   <a href="mailto:hemantjawale24@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-FF0080?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/hemantjawale">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF"/>
   </a>
   <a href="https://js-projects-19nu-git-main-hemant-jawales-projects.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-14B8A6?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-00FFAB?style=for-the-badge&logo=vercel&logoColor=000"/>
   </a>
 </p>
 
 ---
 
-## 🚀 About Me  
+## 🧠 About Me
 
-🎓 **Computer Science Engineering Student (2023–2027)** at *Datta Meghe College of Engineering, Navi Mumbai*  
+🎓 **Computer Science Engineering (2023–2027)**  
+🏫 Datta Meghe College of Engineering, Navi Mumbai  
 📊 **CGPA:** 8.50  
-💻 **Full Stack MERN Developer** with strong focus on scalable, secure & real-world applications  
-⚡ Passionate about **clean architecture, REST APIs, authentication systems & performance optimization**  
-🏆 Participated in **5+ Hackathons** & received **LOR for research & documentation work**
+
+💻 **Full Stack MERN Developer** specializing in:
+- Secure authentication & authorization
+- RESTful API architecture
+- Scalable backend systems
+- High-performance MongoDB queries
+- Clean & modern React interfaces  
+
+🏆 **5+ Hackathons**, LOR recipient, CSI-CATT member  
+⚡ Passionate about **System Design, Backend Engineering & Product-level Apps**
 
 ---
 
-## 🛠️ Tech Stack  
+## 🌐 My Portfolio — More Than Just a Website
 
-### 👨‍💻 Programming Languages  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql)
+🚀 **Live Portfolio:**  
+👉 https://js-projects-19nu-git-main-hemant-jawales-projects.vercel.app/
 
-### 🎨 Frontend  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
+✨ **What makes it special?**
+- Showcases **real-world production projects**
+- Clean UI + responsive design
+- Project demos with live deployments
+- Clear tech stack visibility
+- Built to impress **recruiters & engineers**
 
-### ⚙️ Backend & Databases  
-![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-
-### 🧰 Tools & Platforms  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
-![Appwrite](https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite)
-![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+💡 *This portfolio represents my journey from ideas → architecture → deployment.*
 
 ---
 
-## 📌 Featured Projects  
+## 🛠️ Tech Arsenal
 
-### 🗓️ **AppointHQ – Service Scheduling Platform**  
-🔗 **Live:** https://appoinment-hq-1.onrender.com/  
-💻 **Stack:** MERN, Redux Toolkit, JWT, MongoDB  
+### 👨‍💻 Languages
+![Java](https://img.shields.io/badge/Java-00F7FF?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-00F7FF?style=for-the-badge&logo=javascript)
+![C++](https://img.shields.io/badge/C++-00F7FF?style=for-the-badge&logo=cplusplus)
+![SQL](https://img.shields.io/badge/SQL-00F7FF?style=for-the-badge)
 
-- Real-time appointment booking & management system  
-- Secure authentication with **role-based access (Admin / Organizer / Customer)**  
-- Concurrency-safe booking using **atomic MongoDB transactions**  
-- Scalable REST APIs built with **Node.js & Express.js**  
-- Clean, responsive UI with global state management  
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=00F7FF)
+![Redux](https://img.shields.io/badge/Redux_Toolkit-0D1117?style=for-the-badge&logo=redux&logoColor=00F7FF)
+![Tailwind](https://img.shields.io/badge/Tailwind-0D1117?style=for-the-badge&logo=tailwind-css&logoColor=00F7FF)
 
----
-
-### 📝 **MegaBlog – Content Management Platform**  
-🔗 **Live:** https://frontend-5zic.onrender.com/  
-💻 **Stack:** React, Redux Toolkit, Appwrite, TinyMCE  
-
-- Full-featured blogging platform with authentication  
-- Rich text editor using **TinyMCE** for professional content creation  
-- Secure role-based content access  
-- Appwrite BaaS for auth, database & media storage  
-- Optimized UI state using Redux Toolkit  
+### ⚙️ Backend & Databases
+![Node](https://img.shields.io/badge/Node.js-00FFAB?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express.js-00FFAB?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-00FFAB?style=for-the-badge&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-00FFAB?style=for-the-badge&logo=postgresql)
 
 ---
 
-### 🩸 **VienLink – Blood Bank Management System**  
-🔗 **Live:** https://vienlink-1.onrender.com/  
-💻 **Stack:** MERN, JWT, MongoDB  
+## 🚀 Flagship Projects
 
-- Real-time blood inventory & donor management system  
-- Secure JWT-based authentication for hospitals & admins  
-- Optimized MongoDB queries using indexing  
-- Emergency search performance improvements  
-- Responsive dashboards with Tailwind CSS  
+### 🗓️ AppointHQ — Service Scheduling Platform
+🔗 https://appoinment-hq-1.onrender.com/
 
----
-
-## 🏆 Achievements & Activities  
-
-- 📜 **Letter of Recommendation** for research & documentation work (TMG Internship)  
-- 🧑‍💼 Documentation Team Member – **CSI-CATT (Computer Society of India)**  
-- 🚀 Participated in **5+ Hackathons** with team-based rapid development  
+✔ MERN + Redux Toolkit + JWT  
+✔ Concurrency-safe MongoDB transactions  
+✔ Role-Based Access (Admin / Organizer / Customer)  
+✔ Secure auth with bcrypt & JWT  
+✔ Production-ready REST APIs  
 
 ---
 
-## 📊 GitHub Stats  
+### 📝 MegaBlog — Content Management System
+🔗 https://frontend-5zic.onrender.com/
+
+✔ React + Redux Toolkit  
+✔ Appwrite Backend-as-a-Service  
+✔ TinyMCE Rich Text Editor  
+✔ Protected routes & role control  
+✔ Media uploads & authentication  
+
+---
+
+### 🩸 VienLink — Blood Bank Management System
+🔗 https://vienlink-1.onrender.com/
+
+✔ Real-time blood inventory system  
+✔ JWT-based secure authentication  
+✔ MongoDB indexing for fast emergency searches  
+✔ Responsive dashboards with Tailwind  
+
+---
+
+## 📊 GitHub & Coding Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hemantjawale&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hemantjawale&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hemantjawale&show_icons=true&theme=radical" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hemantjawale&theme=radical" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hemantjawale&theme=react-dark"/>
 </p>
 
 ---
 
-## 🌱 Currently Learning  
-- Advanced Backend Architecture  
-- System Design Fundamentals  
-- Performance Optimization & Scalability  
+## 🌱 Currently Exploring
+- Backend System Design  
+- Scalable REST & Microservices  
+- Performance Optimization  
+- Advanced MongoDB Patterns  
 
 ---
 
-## 🤝 Let's Connect  
+## 🤝 Let’s Build Something Amazing
 
-💼 LinkedIn: https://www.linkedin.com/in/hemant-jawale/  
-🌐 Portfolio: https://js-projects-19nu-git-main-hemant-jawales-projects.vercel.app/  
-📧 Email: **hemantjawale24@gmail.com**
+📧 **Email:** hemantjawale24@gmail.com  
+💼 **LinkedIn:** https://www.linkedin.com/in/hemant-jawale/  
+🌐 **Portfolio:** https://js-projects-19nu-git-main-hemant-jawales-projects.vercel.app/
 
 ---
 
-⭐ **If you like my work, consider giving a star to my repositories!** ⭐
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=120&section=footer"/>
+</p>
+
+⭐ **If my work impressed you, drop a star & let’s connect!** ⭐
