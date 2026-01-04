@@ -1,29 +1,32 @@
-<!-- ======================= HERO SECTION ======================= -->
+<!-- ======================= HERO ======================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=Hemant+Jawale;Full+Stack+MERN+Developer;Building+Scalable+Web+Applications;Turning+Ideas+Into+Production+Apps" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2500&pause=800&color=22C55E&center=true&vCenter=true&width=900&lines=Hemant+Jawale;Full+Stack+MERN+Developer;Building+Scalable+Production+Apps;Backend+Focused+Engineer" />
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212897807-63e87a7b-1c8f-4a12-9b6b-69a3cfc8b9c3.gif" width="480"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212897807-63e87a7b-1c8f-4a12-9b6b-69a3cfc8b9c3.gif" width="450"/>
 </p>
 
 <h3 align="center">
-🚀 Full Stack MERN Developer | Computer Science Engineer | Problem Solver
+💻 Full Stack MERN Developer | Computer Science Engineer | Backend-Oriented
 </h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hemant-jawale/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=000"/>
+  <a href="https://www.linkedin.com/in/hemant-jawale/">
+    <img src="https://img.shields.io/badge/LinkedIn-16A34A?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:hemantjawale24@gmail.com">
-    <img src="https://img.shields.io/badge/Email-FF0080?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-E11D48?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/hemantjawale">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF"/>
+    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://js-projects-19nu-git-main-hemant-jawales-projects.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-00FFAB?style=for-the-badge&logo=vercel&logoColor=000"/>
+    <img src="https://img.shields.io/badge/Portfolio-22C55E?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://drive.usercontent.google.com/download?id=1mCSWzebpdgOKc4rn7TubYbtdt5orxSYw&export=download">
+    <img src="https://img.shields.io/badge/Resume-0EA5E9?style=for-the-badge&logo=googledrive&logoColor=white"/>
   </a>
 </p>
 
@@ -31,124 +34,132 @@
 
 ## 🧠 About Me
 
-🎓 **Computer Science Engineering (2023–2027)**  
+🎓 **B.E. Computer Science (2023–2027)**  
 🏫 Datta Meghe College of Engineering, Navi Mumbai  
 📊 **CGPA:** 8.50  
 
-💻 **Full Stack MERN Developer** specializing in:
-- Secure authentication & authorization
-- RESTful API architecture
-- Scalable backend systems
-- High-performance MongoDB queries
-- Clean & modern React interfaces  
+I am a **Full Stack MERN Developer** with a strong inclination towards **backend engineering**, system design, and scalable architectures.
 
-🏆 **5+ Hackathons**, LOR recipient, CSI-CATT member  
-⚡ Passionate about **System Design, Backend Engineering & Product-level Apps**
+I enjoy building **real-world, production-grade applications** with:
+- Secure authentication & RBAC
+- RESTful APIs
+- MongoDB performance optimization
+- Clean React architecture
+- End-to-end deployment
+
+🏆 **5+ Hackathons** | 📜 **LOR Recipient** | 👨‍💻 CSI-CATT Member
 
 ---
 
-## 🌐 My Portfolio — More Than Just a Website
+## 🌐 Portfolio — Built to Impress Recruiters
 
 🚀 **Live Portfolio:**  
 👉 https://js-projects-19nu-git-main-hemant-jawales-projects.vercel.app/
 
-✨ **What makes it special?**
-- Showcases **real-world production projects**
-- Clean UI + responsive design
-- Project demos with live deployments
-- Clear tech stack visibility
-- Built to impress **recruiters & engineers**
-
-💡 *This portfolio represents my journey from ideas → architecture → deployment.*
+✨ **Why it stands out:**
+- Real-world **deployed projects**
+- Clear **tech stack explanations**
+- Clean UI & responsive design
+- Demonstrates **problem → solution → impact**
+- Built as a **developer showcase, not a template**
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🛠️ Tech Stack
 
 ### 👨‍💻 Languages
-![Java](https://img.shields.io/badge/Java-00F7FF?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-00F7FF?style=for-the-badge&logo=javascript)
-![C++](https://img.shields.io/badge/C++-00F7FF?style=for-the-badge&logo=cplusplus)
-![SQL](https://img.shields.io/badge/SQL-00F7FF?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-14532D?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-166534?style=for-the-badge&logo=javascript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-15803D?style=for-the-badge&logo=cplusplus)
+![SQL](https://img.shields.io/badge/SQL-166534?style=for-the-badge)
 
 ### 🎨 Frontend
-![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=00F7FF)
-![Redux](https://img.shields.io/badge/Redux_Toolkit-0D1117?style=for-the-badge&logo=redux&logoColor=00F7FF)
-![Tailwind](https://img.shields.io/badge/Tailwind-0D1117?style=for-the-badge&logo=tailwind-css&logoColor=00F7FF)
+![React](https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react&logoColor=22C55E)
+![Redux](https://img.shields.io/badge/Redux_Toolkit-0F172A?style=for-the-badge&logo=redux&logoColor=22C55E)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwind-css&logoColor=22C55E)
 
 ### ⚙️ Backend & Databases
-![Node](https://img.shields.io/badge/Node.js-00FFAB?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express.js-00FFAB?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-00FFAB?style=for-the-badge&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-00FFAB?style=for-the-badge&logo=postgresql)
+![Node](https://img.shields.io/badge/Node.js-166534?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express.js-166534?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-166534?style=for-the-badge&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-166534?style=for-the-badge&logo=postgresql)
 
 ---
 
-## 🚀 Flagship Projects
+## 🚀 Featured Projects
 
 ### 🗓️ AppointHQ — Service Scheduling Platform
 🔗 https://appoinment-hq-1.onrender.com/
 
-✔ MERN + Redux Toolkit + JWT  
-✔ Concurrency-safe MongoDB transactions  
-✔ Role-Based Access (Admin / Organizer / Customer)  
-✔ Secure auth with bcrypt & JWT  
-✔ Production-ready REST APIs  
+- MERN Stack + Redux Toolkit
+- JWT authentication with RBAC
+- Concurrency-safe MongoDB transactions
+- Secure booking system
+- Production-grade REST APIs
 
 ---
 
 ### 📝 MegaBlog — Content Management System
 🔗 https://frontend-5zic.onrender.com/
 
-✔ React + Redux Toolkit  
-✔ Appwrite Backend-as-a-Service  
-✔ TinyMCE Rich Text Editor  
-✔ Protected routes & role control  
-✔ Media uploads & authentication  
+- React + Redux Toolkit
+- Appwrite Backend-as-a-Service
+- TinyMCE rich text editor
+- Protected routes & media handling
 
 ---
 
 ### 🩸 VienLink — Blood Bank Management System
 🔗 https://vienlink-1.onrender.com/
 
-✔ Real-time blood inventory system  
-✔ JWT-based secure authentication  
-✔ MongoDB indexing for fast emergency searches  
-✔ Responsive dashboards with Tailwind  
+- Real-time blood inventory tracking
+- JWT-based authentication
+- MongoDB indexing for emergency searches
+- Responsive Tailwind dashboards
 
 ---
 
-## 📊 GitHub & Coding Stats
+## 🏆 Achievements & Activities
+
+- 📜 Letter of Recommendation (TMG Internship)
+- 🧑‍💼 Documentation Team — CSI-CATT
+- 🚀 Participated in 5+ Hackathons
+- 🤝 Team-based rapid development experience
+
+---
+
+## 📊 GitHub Stats & Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hemantjawale&show_icons=true&theme=radical" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hemantjawale&theme=radical" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hemantjawale&show_icons=true&theme=default"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hemantjawale&theme=react-dark"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hemantjawale&theme=default"/>
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/22c55e/hemantjawale" alt="Hemant Jawale GitHub Contributions"/>
 </p>
 
 ---
 
-## 🌱 Currently Exploring
-- Backend System Design  
-- Scalable REST & Microservices  
-- Performance Optimization  
-- Advanced MongoDB Patterns  
+## 🌱 Currently Learning
+- Backend System Design
+- Scalable REST APIs
+- Performance Optimization
+- Advanced MongoDB Patterns
 
 ---
 
-## 🤝 Let’s Build Something Amazing
+## 🤝 Let’s Connect
 
 📧 **Email:** hemantjawale24@gmail.com  
 💼 **LinkedIn:** https://www.linkedin.com/in/hemant-jawale/  
 🌐 **Portfolio:** https://js-projects-19nu-git-main-hemant-jawales-projects.vercel.app/
 
----
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=22C55E&height=120&section=footer"/>
 </p>
 
-⭐ **If my work impressed you, drop a star & let’s connect!** ⭐
+⭐ *If you like my work, consider starring my repositories!* ⭐
